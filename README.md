@@ -15,7 +15,7 @@
 
 | Feature | Status | Details |
 |---------|--------|---------|
-| **Hand Detection** | ✅ Multi-hand | Track up to 4 hands simultaneously |
+| **Hand Detection** | ✅ Multi-hand | Track up to 2 hands simultaneously |
 | **Landmarks** | ✅ 21 keypoints | Full hand skeleton with finger tips |
 | **Finger Counting** | ✅ Real-time | Instant raised finger detection |
 | **Performance** | ✅ 30+ FPS | Smooth real-time processing |
