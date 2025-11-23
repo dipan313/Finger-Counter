@@ -50,7 +50,7 @@
 - Perfect for building gesture-based applications
 
 ### 🎨 **Developer-Friendly**
-- Simple, intuitive API
+- Simple
 - Comprehensive examples included
 - Configurable detection parameters
 - Real-time visualization with overlays
